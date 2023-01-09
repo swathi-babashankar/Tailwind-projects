@@ -1,3 +1,9 @@
 [submodule "Tailwind-project-1-Paytm-clone"]
 	path = Tailwind-project-1-Paytm-clone
 	url = https://github.com/swathi-babashankar/Tailwind-project-1-Paytm-clone
+[submodule "Tailwind-Project-2-Shopify-Clone"]
+	path = Tailwind-Project-2-Shopify-Clone
+	url = https://github.com/swathi-babashankar/Tailwind-Project-2-Shopify-Clone
+[submodule "Tailwind-Project-3-Rode-Clone"]
+	path = Tailwind-Project-3-Rode-Clone
+	url = https://github.com/swathi-babashankar/Tailwind-Project-3-Rode-Clone
